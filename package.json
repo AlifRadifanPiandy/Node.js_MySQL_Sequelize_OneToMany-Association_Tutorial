@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-mysql-sequelize-one-to-many-association-tutorial",
+  "version": "1.0.0",
+  "description": "Node.js MySQL Sequelize One-to-Many Association Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "sequelize",
+    "one-to-many",
+    "association"
+  ],
+  "author": "AlifRadifanPiandy",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.10.0",
+    "sequelize": "^6.37.3"
+  }
+}
