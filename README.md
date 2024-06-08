@@ -1,4 +1,4 @@
-**Node.js MySQL Sequelize One-to-Many Association Tutorial**
+**Node.js_MySQL_Sequelize_One-to-Many_Association_Tutorial**
 
 ===========================================================
 
@@ -69,3 +69,15 @@ The project depends on the following packages:
 These dependencies are listed in the `package.json` file.
 
 I hope this README helps! Let me know if you have any questions or need further clarification on any of the concepts.
+
+**Contributing**
+
+---
+
+If you would like to contribute to this project, please feel free to submit a pull request or open an issue. Your feedback and contributions are greatly appreciated!
+
+**License**
+
+---
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code as you see fit. See the `LICENSE` file for more details.
