@@ -2,7 +2,7 @@
 
 ===========================================================
 
-This project demonstrates a basic Node.js application using Sequelize to interact with a MySQL database, with a one-to-many association between tutorials and comments.
+This project demonstrates a basic Node.js application using Sequelize to interact with a MySQL database, with a one-to-many association between two models.
 
 **Database Configuration**
 
